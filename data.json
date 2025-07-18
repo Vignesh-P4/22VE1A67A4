@@ -1,0 +1,54 @@
+[
+  {
+    "url": "https://example.com/page",
+    "validity": 45,
+    "shortcode": "abcd1"
+  },
+  {
+    "url": "https://example.com/page2",
+    "validity": 45,
+    "shortcode": "ppwa4"
+  },
+  {
+    "shortcode": "N11mt6",
+    "url": "https://example.com/page",
+    "expiry": "2025-07-18T07:35:56.799Z",
+    "createdAt": "2025-07-18T07:05:56.799Z",
+    "clicks": []
+  },
+  {
+    "shortcode": "DON2ku",
+    "url": "https://example.com/page",
+    "expiry": "2025-07-18T07:42:25.813Z",
+    "createdAt": "2025-07-18T07:12:25.813Z",
+    "clicks": []
+  },
+  {
+    "shortcode": "70riTu",
+    "url": "https://example.com/page",
+    "expiry": "2025-07-18T07:44:43.375Z",
+    "createdAt": "2025-07-18T07:14:43.375Z",
+    "clicks": []
+  },
+  {
+    "shortcode": "QdtzuW",
+    "url": "https://example.com/page2",
+    "expiry": "2025-07-18T07:45:22.810Z",
+    "createdAt": "2025-07-18T07:15:22.810Z",
+    "clicks": []
+  },
+  {
+    "shortcode": "1q8l8h",
+    "url": "https://example.com/page2",
+    "expiry": "2025-07-18T07:46:19.925Z",
+    "createdAt": "2025-07-18T07:16:19.925Z",
+    "clicks": []
+  },
+  {
+    "shortcode": "IaT2tr",
+    "url": "https://example.com/page3",
+    "expiry": "2025-07-18T07:46:27.562Z",
+    "createdAt": "2025-07-18T07:16:27.562Z",
+    "clicks": []
+  }
+]
